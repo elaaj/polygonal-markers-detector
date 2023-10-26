@@ -1,4 +1,4 @@
-# round-markers-detector
+# polygonal-markers-detector
 
 ## Table of Contents
 
