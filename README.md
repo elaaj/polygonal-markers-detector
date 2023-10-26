@@ -25,6 +25,7 @@ Before of running the main notebook, there are some requirements:
 - The following python modules:
   - opencv-python
   - numpy
+- The dataset folder, which can be downloaded [here](https://github.com/elaaj/binary-video-segmentation/tree/main/data).
 
 ## Usage
 
@@ -34,5 +35,5 @@ As in this [project](https://github.com/elaaj/binary-video-segmentation), the da
 
 
 ```bash
-git clone https://github.com/elaaj/round-markers-detector
+git clone https://github.com/elaaj/polygonal-markers-detector
 ```
